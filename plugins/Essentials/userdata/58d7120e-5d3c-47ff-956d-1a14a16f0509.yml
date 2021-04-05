@@ -1,0 +1,51 @@
+lastAccountName: exaltasamba
+timestamps:
+  login: 1617514682165
+  lastteleport: 1617070249728
+  logout: 1617519365296
+ipAddress: 191.31.61.52
+lastlocation:
+  world: Ghast
+  x: -23.591125826578192
+  y: 102.77693369490827
+  z: -25.207143469554506
+  yaw: -61.757812
+  pitch: 46.000744
+powertools:
+  golden_sword:
+  - undo
+  stone_sword:
+  - undo
+powertoolsenabled: true
+logoutlocation:
+  world: Ghast
+  x: -19.43761795346319
+  y: 113.0
+  z: -19.104725323641972
+  yaw: -346.22577
+  pitch: 47.13185
+godmode: false
+nickname: exaltasamba
+homes:
+  warp2:
+    world: Brittle_Hollow
+    x: 118.5193270882336
+    y: 67.0
+    z: 10.592094428707853
+    yaw: -92.40173
+    pitch: 30.899998
+  warp1:
+    world: Brittle_Hollow
+    x: 129.05759994414692
+    y: 78.0
+    z: -532.0641997309166
+    yaw: 304.80078
+    pitch: 42.14997
+  blac:
+    world: Brittle_Hollow
+    x: 132.26288520013335
+    y: 22.0
+    z: 3.489251240519011
+    yaw: -138.90178
+    pitch: 56.550125
+socialspy: false

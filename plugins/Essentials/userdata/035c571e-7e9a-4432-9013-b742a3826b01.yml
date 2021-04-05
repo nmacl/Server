@@ -1,0 +1,25 @@
+lastAccountName: Dogger29
+timestamps:
+  login: 1617511386566
+  lastteleport: 1617515789362
+  logout: 1617519318492
+  mute: 0
+ipAddress: 141.149.63.35
+lastlocation:
+  world: Ghast
+  x: -11.256285156883493
+  y: 86.43489389115344
+  z: 5.6208708523948765
+  yaw: 144.54102
+  pitch: 24.564539
+logoutlocation:
+  world: Ghast
+  x: -38.830561318294976
+  y: 96.36917211700062
+  z: -33.69999998807906
+  yaw: 156.69373
+  pitch: 28.264385
+godmode: false
+powertools: {}
+nickname: Dogger29
+muted: false

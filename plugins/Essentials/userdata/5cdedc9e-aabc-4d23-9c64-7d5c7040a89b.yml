@@ -1,0 +1,22 @@
+lastAccountName: dontjudgeme1243
+timestamps:
+  login: 1617511438714
+  logout: 1617518923791
+  lastteleport: 1617515156828
+ipAddress: 192.168.0.137
+godmode: false
+logoutlocation:
+  world: Ghast
+  x: 8.130548009246635
+  y: 85.0
+  z: 2.20143004671552
+  yaw: 16.047195
+  pitch: 17.999859
+lastlocation:
+  world: Ghast
+  x: -25.114676264202313
+  y: 83.42317924377149
+  z: -12.941832911519318
+  yaw: 293.13367
+  pitch: 14.399847
+afk: false

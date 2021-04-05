@@ -1,0 +1,37 @@
+lastAccountName: Lildbis
+timestamps:
+  login: 1616287068361
+  logout: 1616296594999
+  lastteleport: 1616292177920
+  mute: 0
+ipAddress: 75.108.111.13
+lastlocation:
+  world: Brazil
+  x: -46.8062697875328
+  y: 95.44546955431952
+  z: 146.05195937455878
+  yaw: 193.5271
+  pitch: 3.369617
+logoutlocation:
+  world: spawn
+  x: 23.0
+  y: 130.0
+  z: 3.0
+  yaw: 150.88672
+  pitch: 0.0
+powertools:
+  cod:
+  - kill toothlesssquid
+  iron_sword:
+  - smite exaltasamba
+  wooden_hoe:
+  - nick exaltasamba caillou
+  villager_spawn_egg:
+  - nick exaltasamba caillou
+  wooden_sword:
+  - nick exaltasamba caillou
+  blue_wool:
+  - nick Lildbis
+godmode: false
+nickname: Lildbis
+muted: false

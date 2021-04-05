@@ -1,0 +1,390 @@
+[15:50:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:50:16] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:50:17] [Worker-Main-11/INFO]: Loaded 7 recipes
+[15:50:18] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[15:50:18] [Server thread/INFO]: Loading properties
+[15:50:18] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a93cbb1-7029c0a (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[15:50:18] [Server thread/INFO]: Debug logging is disabled
+[15:50:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:50:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:50:18] [Server thread/INFO]: Default game type: CREATIVE
+[15:50:18] [Server thread/INFO]: Generating keypair
+[15:50:18] [Server thread/INFO]: Starting Minecraft server on 192.168.0.137:25565
+[15:50:18] [Server thread/INFO]: Using default channel type
+[15:50:20] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15:50:22] [Server thread/WARN]: Legacy plugin Ability v1.0 does not specify an api-version.
+[15:50:23] [Server thread/INFO]: [CleanroomGenerator] Loading CleanroomGenerator v1.1.1
+[15:50:23] [Server thread/INFO]: [Ability] Loading Ability v1.0
+[15:50:23] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.1+299386a
+[15:50:23] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@781a04e6]
+[15:50:23] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[15:50:23] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[15:50:23] [Server thread/INFO]: [CleanroomGenerator] Enabling CleanroomGenerator v1.1.1
+[15:50:23] [Server thread/INFO]: [CleanroomGenerator] CleanroomGenerator v1.1.1 enabled
+[15:50:23] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.1+299386a
+[15:50:23] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:50:24] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[15:50:24] [Server thread/WARN]: [WorldEdit] ====================================================
+[15:50:24] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[15:50:24] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[15:50:24] [Server thread/WARN]: [WorldEdit]   
+[15:50:24] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[15:50:24] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[15:50:24] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[15:50:24] [Server thread/WARN]: [WorldEdit]   
+[15:50:24] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[15:50:24] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[15:50:24] [Server thread/WARN]: [WorldEdit]   
+[15:50:24] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[15:50:24] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[15:50:24] [Server thread/WARN]: [WorldEdit]   
+[15:50:24] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[15:50:24] [Server thread/WARN]: [WorldEdit] ====================================================
+[15:50:24] [Server thread/INFO]: Preparing level "world"
+[15:50:24] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:50:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:24] [Server thread/INFO]: View Distance: 10
+[15:50:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:24] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:50:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:24] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:50:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:50:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:50:24] [Server thread/INFO]: Mob Spawn Range: 6
+[15:50:25] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:50:25] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:50:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:25] [Server thread/INFO]: View Distance: 10
+[15:50:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:25] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:50:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:25] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:50:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:50:25] [Server thread/INFO]: Mob Spawn Range: 6
+[15:50:25] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:50:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:25] [Server thread/INFO]: View Distance: 10
+[15:50:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:25] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:50:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:25] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:50:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:50:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:50:25] [Server thread/INFO]: Mob Spawn Range: 6
+[15:50:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:50:26] [Server thread/INFO]: Preparing spawn area: 0%
+[15:50:26] [Server thread/INFO]: Preparing spawn area: 0%
+[15:50:26] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:50:26] [Server thread/INFO]: Time elapsed: 1381 ms
+[15:50:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 0%
+[15:50:27] [Worker-Main-13/INFO]: Preparing spawn area: 99%
+[15:50:27] [Server thread/INFO]: Time elapsed: 791 ms
+[15:50:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 0%
+[15:50:28] [Worker-Main-10/INFO]: Preparing spawn area: 88%
+[15:50:28] [Server thread/INFO]: Time elapsed: 615 ms
+[15:50:28] [Server thread/INFO]: [Ability] Enabling Ability v1.0
+[15:50:28] [Server thread/INFO]: Gucci mane
+[15:50:28] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[15:50:28] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[15:50:28] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[15:50:28] [Server thread/INFO]: No kits found to migrate.
+[15:50:28] [Server thread/INFO]: Loaded 25599 items from items.json.
+[15:50:28] [Server thread/INFO]: Using locale en_US
+[15:50:28] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:50:28] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[15:50:28] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[15:50:28] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[15:50:28] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[15:50:28] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[15:50:28] [Server thread/INFO]: -------- World Settings For [graveyard] --------
+[15:50:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:28] [Server thread/INFO]: View Distance: 10
+[15:50:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:28] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:50:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:50:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:50:28] [Server thread/INFO]: Mob Spawn Range: 6
+[15:50:28] [Server thread/INFO]: Preparing start region for dimension minecraft:graveyard
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 0%
+[15:50:28] [Server thread/INFO]: Time elapsed: 151 ms
+[15:50:28] [Server thread/INFO]: -------- World Settings For [default] --------
+[15:50:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:28] [Server thread/INFO]: View Distance: 10
+[15:50:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:28] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:50:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:50:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:50:28] [Server thread/INFO]: Mob Spawn Range: 6
+[15:50:28] [Server thread/INFO]: Preparing start region for dimension minecraft:default
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 0%
+[15:50:28] [Server thread/INFO]: Time elapsed: 128 ms
+[15:50:28] [Server thread/INFO]: -------- World Settings For [kau] --------
+[15:50:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:28] [Server thread/INFO]: View Distance: 10
+[15:50:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:28] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:50:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:50:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:50:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:50:28] [Server thread/INFO]: Mob Spawn Range: 6
+[15:50:28] [Server thread/INFO]: Preparing start region for dimension minecraft:kau
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 0%
+[15:50:29] [Server thread/INFO]: Time elapsed: 288 ms
+[15:50:29] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[15:50:29] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[15:50:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:50:29] [Server thread/INFO]: Done (4.688s)! For help, type "help"
+[15:50:31] [User Authenticator #1/INFO]: UUID of player exaltasamba is 58d7120e-5d3c-47ff-956d-1a14a16f0509
+[15:50:32] [Server thread/INFO]: exaltasamba[/186.222.115.111:52085] logged in with entity id 187 at ([world]-197.37728225274134, 63.0, 111.24734527466673)
+[15:50:40] [Server thread/INFO]: exaltasamba was shot by Skeleton
+[15:50:46] [Server thread/INFO]: exaltasamba issued server command: /gmc
+[15:52:34] [Async Chat Thread - #0/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mexaltasamba[m> e[m
+[15:56:22] [Server thread/INFO]: exaltasamba issued server command: /mvtp graveyard
+[15:56:28] [User Authenticator #2/INFO]: UUID of player khoot is 5cdedc9e-aabc-4d23-9c64-7d5c7040a89b
+[15:56:28] [Server thread/INFO]: khoot[/73.84.32.80:52096] logged in with entity id 741 at ([world]-201.6855331345717, 64.0, 117.45500986235024)
+[15:56:31] [Async Chat Thread - #1/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mexaltasamba[m> helo[m
+[15:56:33] [Server thread/INFO]: khoot issued server command: /god
+[15:56:37] [Server thread/INFO]: khoot issued server command: /time set day
+[15:56:42] [Async Chat Thread - #1/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mkhoot[m> the fucking animals in this game are anoying[m
+[15:56:45] [Server thread/INFO]: khoot issued server command: /killall all
+[15:57:15] [Server thread/INFO]: exaltasamba issued server command: /tp khoot
+[15:57:41] [Async Chat Thread - #1/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mkhoot[m> are you making graveyard[m
+[15:57:43] [Async Chat Thread - #1/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mkhoot[m> do you want help[m
+[15:57:46] [Async Chat Thread - #1/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mkhoot[m> im kind of tired of coding[m
+[15:57:57] [Async Chat Thread - #1/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mexaltasamba[m> sure[m
+[15:58:03] [Server thread/INFO]: khoot issued server command: /mvtp graveyarde
+[15:58:06] [Server thread/INFO]: khoot issued server command: /mvtp graveyard
+[15:58:08] [Server thread/INFO]: khoot issued server command: /mvconfirm
+[15:58:10] [Server thread/INFO]: khoot issued server command: /gmc
+[15:58:15] [Server thread/INFO]: khoot issued server command: /top
+[15:58:19] [Server thread/INFO]: khoot issued server command: /mvsetspawn
+[15:58:21] [Server thread/INFO]: khoot issued server command: /butcher
+[15:58:23] [Async Chat Thread - #1/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mexaltasamba[m> i think i'll build for like an hour and a half then ima go play some hypixel skyblock[m
+[15:58:30] [Server thread/INFO]: khoot issued server command: /butcher
+[15:58:31] [Server thread/INFO]: exaltasamba issued server command: /mvtp graveyard
+[15:58:32] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mkhoot[m> swag[m
+[15:58:33] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mkhoot[m> swag[m
+[15:58:34] [Server thread/INFO]: khoot issued server command: /butcher
+[15:58:35] [Server thread/INFO]: exaltasamba issued server command: /gmc
+[15:58:36] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> swag[m
+[15:59:02] [Server thread/INFO]: exaltasamba issued server command: /difficulty peaceful
+[15:59:02] [Server thread/INFO]: [exaltasamba: The difficulty has been set to Peaceful]
+[15:59:05] [Server thread/INFO]: exaltasamba issued server command: /butcher
+[15:59:23] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mkhoot[m> wait[m
+[15:59:25] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> ?[m
+[15:59:26] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mkhoot[m> my friend wants to hang out[m
+[15:59:32] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mkhoot[m> so I'm prolly gonna leave[m
+[15:59:35] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mkhoot[m> do you want the server on?[m
+[15:59:38] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> ye[m
+[15:59:40] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mkhoot[m> ok[m
+[15:59:50] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mkhoot[m> ill be afk for a while probably[m
+[15:59:52] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> ok[m
+[15:59:55] [Server thread/INFO]: khoot issued server command: /mvtp world
+[15:59:57] [Server thread/INFO]: khoot issued server command: /gmc
+[16:00:10] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> once i'm done do you want me to tell you so you can close the server?[m
+[16:00:15] [Async Chat Thread - #1/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mkhoot[m> ./stop[m
+[16:00:18] [Async Chat Thread - #1/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mkhoot[m> im gonna dc[m
+[16:00:19] [Server thread/INFO]: khoot lost connection: Disconnected
+[16:00:19] [Server thread/INFO]: khoot left the game
+[16:00:29] [Server thread/INFO]: [Server] if u want to talk or something i can check my phone from discord
+[16:00:32] [Async Chat Thread - #1/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> o k[m
+[16:00:35] [Server thread/INFO]: [Server] but I won't be home so
+[16:01:02] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:01:50] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:01:54] [Server thread/INFO]: exaltasamba issued server command: //undo
+[16:02:15] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:04:02] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:07:19] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:13:01] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:13:09] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:13:35] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:24:43] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:28:51] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:29:41] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:30:11] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:31:17] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:31:37] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:32:58] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:33:07] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:33:12] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:33:17] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:33:23] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:33:27] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:33:33] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:33:37] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:33:44] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:33:53] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:33:54] [Server thread/INFO]: exaltasamba issued server command: /gamemode spectator
+[16:33:55] [Server thread/INFO]: exaltasamba issued server command: /gamemode creative
+[16:34:19] [Server thread/INFO]: exaltasamba issued server command: //set stone_bricks
+[16:34:27] [User Authenticator #3/INFO]: UUID of player ChimpEvent47 is 035c571e-7e9a-4432-9013-b742a3826b01
+[16:34:28] [Server thread/INFO]: ChimpEvent47[/70.19.37.162:60761] logged in with entity id 1621 at ([default]4.838649705819239, 90.0, 0.6007618372755932)
+[16:34:32] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> chimp event moment[m
+[16:34:33] [Async Chat Thread - #2/INFO]: [[0;37;1mdefault[0;37;1m]<[0;31;22mChimpEvent47[m> cumderpants[m
+[16:34:37] [Server thread/INFO]: ChimpEvent47 issued server command: /gamemode 1
+[16:35:04] [Async Chat Thread - #2/INFO]: [[0;37;1mdefault[0;37;1m]<[0;31;22mChimpEvent47[m> what blocks work well with netherite blocks[m
+[16:35:10] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> blackstone[m
+[16:35:11] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> obsidian[m
+[16:35:14] [Async Chat Thread - #2/INFO]: [[0;37;1mdefault[0;37;1m]<[0;31;22mChimpEvent47[m> youre amazing[m
+[16:35:25] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> bro....[m
+[16:35:31] [Async Chat Thread - #2/INFO]: [[0;37;1mdefault[0;37;1m]<[0;31;22mChimpEvent47[m> w[m
+[16:35:33] [Server thread/INFO]: ChimpEvent47 issued server command: /tp exaltasamba
+[16:35:36] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mChimpEvent47[m> AAA[m
+[16:35:37] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> uh[m
+[16:35:39] [Server thread/INFO]: ChimpEvent47 fell out of the world
+[16:35:41] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> huh[m
+[16:35:43] [Server thread/INFO]: ChimpEvent47 issued server command: /gm 1
+[16:35:45] [Server thread/INFO]: exaltasamba issued server command: /tp ChimpEvent47 exaltasamba
+[16:35:56] [Server thread/INFO]: ChimpEvent47 issued server command: /butcher
+[16:36:03] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> so i said fuck it and decided to add more detials[m
+[16:36:08] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mChimpEvent47[m> i see that[m
+[16:36:10] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mChimpEvent47[m> i love it[m
+[16:36:18] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mChimpEvent47[m> and[m
+[16:36:27] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mChimpEvent47[m> i see you decided to make bridges go all the way down[m
+[16:36:29] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mChimpEvent47[m> instead of chains up[m
+[16:36:38] [Async Chat Thread - #2/INFO]: [[0;37;1mgraveyard[0;37;1m]<[0;31;22mexaltasamba[m> ?[m
+[16:37:08] [Server thread/INFO]: exaltasamba lost connection: Disconnected
+[16:37:08] [Server thread/INFO]: exaltasamba left the game
+[16:37:08] [Server thread/INFO]: ChimpEvent47 lost connection: Disconnected
+[16:37:08] [Server thread/INFO]: ChimpEvent47 left the game
+[22:32:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21298992ms or 425979 ticks behind
